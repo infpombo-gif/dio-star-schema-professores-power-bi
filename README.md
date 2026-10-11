@@ -1,5 +1,9 @@
-# dio-star-schema-vendas-power-bi
-Projeto DIO de modelagem dimensional no Power BI, com criação de um esquema em estrela (Star Schema) para análise de dados de vendas, organização de tabelas fato e dimensões e documentação dos relacionamentos.
+# Star Schema para Análise de Professores — DIO
+
+Projeto de modelagem dimensional desenvolvido como parte de um desafio da DIO, com foco na análise da atuação dos professores, disciplinas ministradas, cursos, departamentos e períodos.
+
+O repositório contém a proposta do esquema em estrela, scripts SQL, documentação técnica e dados fictícios para demonstração. A implementação e a validação em MySQL e Power BI permanecem pendentes.
+
 ## Status do projeto
 
 ### Concluído no GitHub
